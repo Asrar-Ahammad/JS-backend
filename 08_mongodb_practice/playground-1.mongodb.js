@@ -1,4 +1,3 @@
-
 use('SigmaDatabase');
 
 // Insert a few documents into the courses collection.
